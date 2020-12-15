@@ -1,5 +1,10 @@
 # SGAP-Net
 SGAP-Net: Semantic-Guided Attentive Prototypes Network for Few-Shot Human-Object Interaction Recognition, AAAI2020.
+We resubmit it in TIP with 4 extensions as follows:
++ an alternative prototypes calculation approach called Hallucinatory Graph Prototypes (HGP), which consists of a hallucinator and an HOI Graph Convolution Network (GCN); 
++ a new dataset split strategy, and the corresponding experiments; 
++ cross-domain experiments between different datasets; 
++ additional introduction to related work and ablation studies.
 
 ## Dependencies
 
