@@ -1,5 +1,8 @@
-# SGAP-Net
-SGAP-Net: Semantic-Guided Attentive Prototypes Network for Few-Shot Human-Object Interaction Recognition, AAAI2020.
+
+# SGAP-Net: Semantic-Guided Attentive Prototypes Network for Few-Shot Human-Object Interaction Recognition, AAAI2020.
+
+## Few-Shot Human-Object Interaction Recognition with Semantic-Guided Attentive Prototypes Network
+
 We resubmit it in TIP with 4 extensions as follows:
 + an alternative prototypes calculation approach called Hallucinatory Graph Prototypes (HGP), which consists of a hallucinator and an HOI Graph Convolution Network (GCN); 
 + a new dataset split strategy, and the corresponding experiments; 
@@ -12,6 +15,10 @@ This code requires the following:
 
     python 3.6+*
     Pytorch 1.0+
+
+## Dataset
+[FS-HOI] <https://pan.baidu.com/s/19KpUojAfL75EgIOxZVJxAA>
+code：283w 
 
 ## Abstract
 
